@@ -25,3 +25,8 @@ He charges fair prices: information for information, or coin when information is
 Ministry Field Compliance Officer. You have mailed her your incident forms for two years; she has returned each one annotated, with a form number, and no signature but hers. You have never met her. She has opinions about your handwriting.
 
 *Her office is at the Ministry's Old City field office, six blocks east. Plain door. No sign.*
+
+---
+
+**Next step →** [Character Creation Guide](Character-Creation-Guide.md) — build your character
+{ .next-step }

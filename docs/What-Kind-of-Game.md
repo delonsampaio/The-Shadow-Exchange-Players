@@ -18,7 +18,7 @@ Here is the kind of moment this campaign is built to produce:
 
 Here is another:
 
-*You pull the Anchor Item from the target — *the keepsake that lets a hidden creature pass as human* — a silver locket worn smooth by someone's thumb, the photograph inside long since gone to a blur of faces. The target is neutralized. You file the paperwork. In the ledger, you write the locket's description. You write the date. You do not write what the date on the inside lid means about how long this has been going on.*
+*You pull the **Anchor Item** from the target — the keepsake that lets a hidden creature pass as human — a silver locket worn smooth by someone's thumb, the photograph inside long since gone to a blur of faces. The target is neutralized. You file the paperwork. In the ledger, you write the locket's description. You write the date. You do not write what the date on the inside lid means about how long this has been going on.*
 
 And another:
 

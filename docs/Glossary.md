@@ -38,3 +38,8 @@
 - **Containment Suite** — the crew's hidden lab and vault behind the bookshop's Zoltar machine.
 - **Cursed Family Heirloom** — an object your character should have left behind. The GM will quietly do something with it.
 - **Anchor Ledger** — the crew's record of every Anchor decision they've made.
+
+---
+
+**Next step →** [FAQ](FAQ.md) — the questions a nervous first-timer would ask
+{ .next-step }

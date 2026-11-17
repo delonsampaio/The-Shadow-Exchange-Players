@@ -14,8 +14,8 @@ title: The Shadow Exchange
 
 <p class="hero__tag">Quiet dread. Moral weight. A cat who is always asleep on the evidence.</p>
 
-[Start here :material-arrow-right:](Quick-Start.md){ .md-button .md-button--primary }
-[Before Session 0](Before-Session-0.md){ .md-button }
+[1. Quick Start (5 min) :material-arrow-right:](Quick-Start.md){ .md-button .md-button--primary }
+[Session 0 checklist](Before-Session-0.md){ .md-button }
 
 </div>
 </div>

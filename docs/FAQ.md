@@ -40,3 +40,8 @@ No. Three things: [Quick Start](Quick-Start.md), build your character, send the 
 
 **What if I can't make a session?**
 Tell the GM. We'll work around you — your character can be "lost in their Vice" off-camera.
+
+---
+
+**Next step →** [Before Session 0](Before-Session-0.md) — your checklist
+{ .next-step }

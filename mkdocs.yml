@@ -1,4 +1,4 @@
-site_name: The Shadow Exchange — Player Guide
+site_name: The Shadow Exchange
 site_description: Player guide for The Shadow Exchange, a Blades in the Dark campaign.
 site_url: https://delonsampaio.github.io/The-Shadow-Exchange-Players/
 edit_uri: ""
@@ -30,10 +30,12 @@ theme:
     - navigation.footer
     - navigation.indexes
     - content.tooltips
+    - content.code.copy
     - search.highlight
     - toc.follow
 
 extra_css:
+  - https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap
   - stylesheets/extra.css
 
 markdown_extensions:
@@ -45,19 +47,23 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - sane_lists
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
 
 nav:
   - Home: index.md
   - Start Here:
-      - Before Session 0: Before-Session-0.md
-      - Quick Start: Quick-Start.md
-      - Official Resources: Official-Resources.md
+      - "1. Quick Start (5 min)": Quick-Start.md
+      - "2. Build your character": Character-Creation-Guide.md
+      - "3. Before Session 0": Before-Session-0.md
+      - Playbook Sheets (PDFs): Official-Resources.md
   - The World:
       - What Kind of Game: What-Kind-of-Game.md
       - Our Lair: Our-Lair.md
       - Known Contacts: Known-Contacts.md
   - The Rules:
-      - Character Creation: Character-Creation-Guide.md
       - Rules and Mechanics: Rules-and-Mechanics.md
       - Downtime Guide: Downtime-Guide.md
       - Glossary: Glossary.md

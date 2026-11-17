@@ -1,6 +1,4 @@
 /* The Shadow Exchange — industrial-occult noir. Amber against cold blue. */
-@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap");
-
 :root {
   --se-amber: #f2a93b;
   --se-amber-dim: #b97d1d;
@@ -8,6 +6,14 @@
   --se-ink: #0c0e13;
   --se-panel: #141821;
   --se-line: #262c3a;
+}
+
+/* ---------- Light mode needs its own amber/blue/lines (dark values are too pale on paper) ---------- */
+[data-md-color-scheme="default"] {
+  --se-amber: #9a5206; --se-amber-dim: #b8732a; --se-blue: #1d5fa7; --se-panel: #ece4d2; --se-line: #d6c9b1;
+}
+[data-md-color-scheme="default"] .md-header, [data-md-color-scheme="default"] .md-tabs {
+  --se-amber: #f2a93b; --se-line: #262c3a;   /* the bars stay dark in both modes */
 }
 
 /* ---------- Dark (default): rain-slick night ---------- */
@@ -31,8 +37,8 @@
   --md-default-fg-color: #1d1914;
   --md-primary-fg-color: #14171d;
   --md-primary-bg-color: #f2e9d6;
-  --md-accent-fg-color: #b0620a;
-  --md-typeset-a-color: #a2560a;
+  --md-accent-fg-color: #9a5206;
+  --md-typeset-a-color: #9a5206;
   --md-footer-bg-color: #14171d;
 }
 
@@ -53,7 +59,7 @@
 .md-header { border-bottom: 2px solid var(--se-amber); box-shadow: none; }
 .md-header__title { text-transform: uppercase; font-weight: 600; }
 .md-tabs { border-bottom: 1px solid var(--se-line); }
-.md-tabs__link { text-transform: uppercase; font-size: .62rem; opacity: .8; }
+.md-tabs__link { text-transform: uppercase; font-size: .68rem; letter-spacing: .06em; opacity: .88; }
 .md-tabs__item--active .md-tabs__link { opacity: 1; color: var(--se-amber); }
 
 /* ---------- Quotes (the pitch, read-alouds, GM-style asides) ---------- */
@@ -85,12 +91,16 @@
 .hero {
   position: relative; margin: 0 0 1.6rem; border-radius: 12px; overflow: hidden; min-height: 21rem;
   display: flex; align-items: flex-end;
-  background: linear-gradient(180deg, rgba(12,14,19,.15) 0%, rgba(12,14,19,.55) 55%, rgba(12,14,19,.92) 100%),
-              url("../assets/hero-curios.jpg") center 35% / cover no-repeat;
+  background:
+    radial-gradient(120% 90% at 0% 100%, rgba(12,14,19,.94) 0%, rgba(12,14,19,.72) 52%, rgba(12,14,19,.2) 100%),
+    linear-gradient(180deg, rgba(12,14,19,.1) 0%, rgba(12,14,19,.82) 100%),
+    url("../assets/hero-curios.jpg") center 28% / cover no-repeat;
   border: 1px solid var(--se-line);
 }
 .hero__text { padding: 1.6rem 1.6rem 1.4rem; max-width: 40rem; }
 .hero__text h1 { margin: 0 0 .15em; font-size: 2.4em; line-height: 1.05; color: #f6ecd6 !important; text-shadow: 0 2px 14px rgba(0,0,0,.7); }
+.hero__text .md-button { margin: .25rem .5rem .25rem 0; }
+.hero .md-button:not(.md-button--primary) { color: #f6ecd6; border-color: rgba(246,236,214,.55); background: rgba(12,14,19,.65); }
 .hero__kicker { font-family: "Oswald", sans-serif; text-transform: uppercase; letter-spacing: .22em; color: var(--se-amber); font-size: .7rem; margin: 0 0 .3rem; }
 .hero__tag { color: #efe6d2; font-family: "Lora", serif; font-style: italic; margin: .4rem 0 1rem; text-shadow: 0 1px 8px rgba(0,0,0,.8); }
 @media (max-width: 600px) { .hero { min-height: 18rem; } .hero__text h1 { font-size: 1.9em; } }
@@ -111,8 +121,6 @@
 /* ---------- Pictures ---------- */
 .md-typeset img.figure { border-radius: 10px; border: 1px solid var(--se-line); width: 100%; margin: 1rem 0; }
 .md-typeset figure figcaption { font-family: "Lora", serif; font-style: italic; color: var(--md-default-fg-color--light); font-size: .75rem; }
-.md-typeset img.portrait { float: right; width: 11rem; margin: 0 0 1rem 1.2rem; border-radius: 10px; border: 1px solid var(--se-line); }
-@media (max-width: 600px) { .md-typeset img.portrait { float: none; width: 100%; margin: 1rem 0; } }
 
 /* ---------- Footer ---------- */
 .md-footer-meta { background: var(--se-ink); }
@@ -121,3 +129,43 @@
 /* ---------- Active nav ---------- */
 .md-nav__link--active, .md-nav__item .md-nav__link--active { color: var(--se-amber) !important; }
 .md-nav__link:hover { color: var(--se-blue); }
+
+/* ---------- Portraits: clear floats, tame on phones ---------- */
+.md-typeset img.portrait { float: right; width: 14rem; max-width: 42%; margin: .2rem 0 1rem 1.2rem; border-radius: 10px; border: 1px solid var(--se-line); }
+.md-typeset h2, .md-typeset h3, .md-typeset hr, .md-typeset .next-step { clear: both; }
+@media (max-width: 600px) {
+  .md-typeset img.portrait { float: none; display: block; width: 100%; max-width: 20rem; max-height: 11rem; object-fit: cover; margin: .75rem auto; }
+  .md-header__title { font-size: .85rem; letter-spacing: .03em; }
+}
+
+/* ---------- 3-step onboarding bar ---------- */
+.onboard-steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: .5rem; margin: 0 0 1.4rem; font-family: "Oswald", sans-serif; text-transform: uppercase; font-size: .62rem; letter-spacing: .06em; }
+.onboard-steps a { display: block; padding: .55rem .7rem; border-radius: 6px; border: 1px solid var(--se-line); background: var(--se-panel); color: var(--md-default-fg-color--light) !important; text-decoration: none; text-align: center; }
+.onboard-steps a.active { border-color: var(--se-amber); color: var(--se-amber) !important; background: rgba(242,169,59,.1); font-weight: 600; }
+
+/* ---------- Keyboard focus + reduced motion ---------- */
+.md-typeset a:focus-visible, .md-typeset .md-button:focus-visible { outline: 2px solid var(--se-amber); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; transform: none !important; }
+}
+
+/* ---------- Print: Quick Start doubles as a table handout ---------- */
+@media print {
+  .md-header, .md-tabs, .md-sidebar, .md-footer, .next-step, .onboard-steps, .md-top { display: none !important; }
+  body, .md-main, .md-content { background: #fff !important; color: #000 !important; }
+  .md-typeset { font-size: 9.5pt !important; line-height: 1.45 !important; }
+  .md-typeset h1, .md-typeset h2, .md-typeset th { color: #000 !important; margin-top: .8em !important; }
+  .md-typeset table:not([class]) th { background: #eee !important; }
+}
+
+/* ---------- Task-list checkboxes: obvious empty ring vs. filled amber ---------- */
+.md-typeset .task-list-indicator::before {
+  background-color: transparent; -webkit-mask-image: none; mask-image: none;
+  border: 2px solid var(--se-amber-dim); border-radius: 50%; box-sizing: border-box;
+}
+.md-typeset [type=checkbox]:checked + .task-list-indicator::before {
+  background-color: var(--se-amber); border-color: var(--se-amber);
+  box-shadow: inset 0 0 0 3px var(--md-default-bg-color);
+}
+/* nested numbered lists stay 1-2-3 (matches the message template) */
+.md-typeset ol ol { list-style-type: decimal; }

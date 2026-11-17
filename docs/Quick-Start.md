@@ -1,5 +1,11 @@
 # Quick Start — Read This First (5 minutes)
 
+<div class="onboard-steps">
+  <a class="active" href="../Quick-Start/">1. Quick Start (5m)</a>
+  <a href="../Character-Creation-Guide/">2. Build PC (40m)</a>
+  <a href="../Before-Session-0/">3. Send to GM (5m)</a>
+</div>
+
 *Never played Blades in the Dark? Perfect. You do **not** need to read the long Rules page before Session 0 — read this. The long page is a reference you can come back to.*
 
 ---
