@@ -23,6 +23,37 @@ It is built with **MkDocs Material** and republished automatically by GitHub Act
 - Add Anchor decisions to `docs/The-Anchor-Ledger.md` and newly met people to `docs/Known-Contacts.md`.
 - Update `docs/Our-Lair.md` only if the lair changed.
 
+## The Home page evolves as the campaign is played
+- **Before Session 1:** Home is onboarding (three "Start here" cards). Leave it.
+- **After the first recap is published:** swap those cards for three **current-state** cards, and refresh them after every session:
+
+```markdown
+<div class="grid cards" markdown>
+
+- :material-book-open-page-variant:{ .lg } **Latest recap**
+
+    One-sentence hook for the newest session.
+
+    [Read Session N →](Session-NN-Recap.md)
+
+- :material-map-marker-path:{ .lg } **Where we left off**
+
+    Two or three sentences, from the crew's point of view, about what they carry into the next session.
+
+- :material-help-circle:{ .lg } **What we're wondering**
+
+    - An open question the *players* have (no answers)
+    - Another one
+
+</div>
+
+*New here? [Start here](Quick-Start.md).*
+```
+
+- Keep the hero and pitch quote. The **Start Here** tab and onboarding pages stay for reference.
+- Optional: a small "Crew status" table (Coin, Heat, Rep, and only clocks the players have seen).
+- These cards get the **same spoiler check** as the recap — publish only what the crew has learned.
+
 ## IMPORTANT — spoilers
 This site is **public** and is read by the players. **Publish only what the players' characters have actually seen or learned.** Before publishing any campaign content, run the **spoiler check in the GM's private notes** (`Wiki-Update-Protocol.md` in the private campaign repo). If you are unsure whether something is a secret, **leave it out** and ask the GM.
 
