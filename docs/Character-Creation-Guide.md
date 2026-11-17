@@ -2,7 +2,7 @@
 
 <div class="onboard-steps">
   <a href="../Quick-Start/">1. Quick Start (5m)</a>
-  <a class="active" href="../Character-Creation-Guide/">2. Build PC (40m)</a>
+  <a class="active" href="../Character-Creation-Guide/">2. Build PC (45m)</a>
   <a href="../Before-Session-0/">3. Send to GM (5m)</a>
 </div>
 
@@ -59,6 +59,7 @@ If you're not sure what to pick, ask the GM. He knows what the rest of the table
 You have three **attributes** (Insight, Prowess, Resolve), each containing four **actions** — twelve skills total. Your **dots** in an action are how many six-sided dice you roll for that skill.
 
 **How to place your 7 dots:**
+
 1. **Your playbook starts with 3 dots already filled in** (see the table below Step 1).
 2. **Add 4 more dots:** *one* in an action that reflects your **heritage**, *one* in an action that reflects your **background**, and *two* anywhere you like.
 3. **Maximum 2 dots in any single action** at the start.
@@ -78,6 +79,7 @@ You have three **attributes** (Insight, Prowess, Resolve), each containing four 
 Your playbook lists 8–9 special abilities. Pick **one** to start. You'll earn more through XP.
 
 Rules of thumb:
+
 - Read the ability twice. The first read is flavor; the second tells you when it actually triggers.
 - Pick something that gives you a *new option*, not just a *bigger number*. An ability that lets you do something you otherwise couldn't is more interesting at the table than +1 die.
 - Don't take a cross-playbook "veteran" ability at character creation. Save those for later.
@@ -89,8 +91,11 @@ Rules of thumb:
 Your playbook lists contacts. **Pick one as a Close Friend** (someone who'll help you, with strings) and **one as a Rival** (someone who creates friction, with leverage).
 
 Both will appear in play within the first three sessions. Tell the GM:
+
 - Your Friend's name and one sentence on why this person owes you, or you owe them.
 - Your Rival's name and one sentence on why the friction.
+
+Make them **new people from your character's own life**. Director Vance (head of the Ministry's local office) is too senior to be your Friend or Rival, so keep any Ministry or Apex contact at clerk level. Harlan Okafor (see [Known Contacts](Known-Contacts.md)) works as a Friend but not as a Rival.
 
 These are not optional flavor. They are how the GM knows which NPCs to put on stage in the opening months.
 

@@ -33,7 +33,7 @@ They can, but it's slow and you'll see it coming. Harm builds up, and most scene
 One object your character carries that they should have left behind. You only choose the object. The GM does the rest.
 
 **How funny is this campaign?**
-Quite. Expect a cat who is always asleep on the evidence, a lot of paperwork, and at least one very sincere dog. The quiet moments are quiet.
+Quite. Expect a cat who is always asleep on the evidence, a lot of paperwork, and at least one creature with strong opinions. The quiet moments are quiet.
 
 **Is there a lot of homework?**
 No. Three things: [Quick Start](Quick-Start.md), build your character, send the GM your details. Everything else is optional reference.

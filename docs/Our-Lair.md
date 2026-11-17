@@ -79,7 +79,7 @@ You also keep what you find. Monster parts, supernatural objects, things the Min
 
 ## The Factions
 
-**The Ministry (Tier V)** *(Tier = how big and powerful an organization is, from 0 to V; your crew starts at 0)* — Your license-holder. Bureaucratic, efficient, and not as monolithic as they present themselves. Your direct supervisor is Director Vance. He believes in procedure. He is not your friend. He is not your enemy. He is a process.
+**The Ministry (Tier V)** *(Tier = how big and powerful an organization is, from 0 to V; your crew starts at 0)* — Your license-holder. Bureaucratic, efficient, and very good at not asking where things come from. Your direct supervisor is Director Vance. He believes in procedure. He is not your friend. He is not your enemy. He is a process.
 
 **Apex Aegis (Tier IV)** — A private firm that treats the supernatural as a resource extraction opportunity. Better equipment than you. Worse ethics. They are systematically acquiring or starving out every small licensed firm in the city. They have not approached you yet. When they do, it will not be a casual conversation.
 

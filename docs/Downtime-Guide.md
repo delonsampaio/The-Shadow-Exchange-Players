@@ -26,6 +26,7 @@ Roll to acquire a temporary item or resource for the next score — special equi
 Work toward a personal goal that takes more than one session. You describe what you're doing and roll the relevant action; ticks on a clock track your progress. When the clock fills, the project completes.
 
 Good first projects:
+
 - Researching something unusual you encountered on the last score.
 - Modifying a piece of Containment Suite gear.
 - Mending a relationship with your Close Friend NPC.

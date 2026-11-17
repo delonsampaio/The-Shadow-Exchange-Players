@@ -68,7 +68,7 @@ Distribute your dots knowing what each action covers:
 
 **Command** — compel swift obedience. Intimidate, issue orders that get followed, lead under pressure, establish authority through presence. *This campaign: getting a Twice-Born to stop mid-episode without a fight, holding the crew together when something goes sideways.*
 
-**Consort** — socialize with friends and contacts. Build rapport, access resources or people through relationships, make connections through shared background. *This campaign: getting information out of a contact at the diner, building standing with a market vendor.*
+**Consort** — socialize with friends and contacts. Build rapport, access resources or people through relationships, make connections through shared background. *This campaign: getting information out of a contact at the diner, building standing with someone who buys or sells quietly.*
 
 **Sway** — influence with guile, charm, or argument. Lie convincingly, persuade, manipulate, argue someone into or out of a position using social pressure rather than relationship. *This campaign: talking past a Ministry inspector, convincing a witness they saw a gas leak.*
 
@@ -129,6 +129,7 @@ You realize mid-score that you'd want a specific tool, an alibi, a contact, a ke
 - *"I flash back to having modified the scanner before we left."*
 
 Cost depends on how plausible and risky the prep was:
+
 - **0 Stress** — something obviously plausible you'd have done with no difficulty.
 - **1 Stress** — meaningful prep that had some risk or effort.
 - **2 Stress** — complex or risky setup. The flashback may require a roll.

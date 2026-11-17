@@ -7,12 +7,14 @@ Read this before you arrive. Session 0 has a specific shape. Knowing it ahead of
 ## Before you arrive
 
 **Bring:**
+
 - Your completed character sheet (digital is fine; photo of paper is fine)
 - Your Cursed Family Heirloom (one sentence — see [Character Creation Guide](Character-Creation-Guide.md))
 - Your Friend and Rival (names + one sentence each)
 - Your answer to the one question you sent the GM
 
 **Required:**
+
 1. [Quick Start](Quick-Start.md) — the dice and the 12 actions on one screen.
 2. [Character Creation Guide](Character-Creation-Guide.md) — build your character (grab your free sheet from [Official Resources](Official-Resources.md)).
 
@@ -108,3 +110,8 @@ At the end of Session 0, you will have:
 - The GM will have printed reference cards at the table. Bring your sheet; everything else is provided.
 - **The TV** shows scene images, documents your characters are holding, and public clocks. **Anything on it is something your character can see.** (Secrets never go on the TV.)
 - **Bring your sense of humor.** This campaign is dread *and* laughs — see [What Kind of Game Is This](What-Kind-of-Game.md).
+
+---
+
+**You're ready for Session 0.** Curious about the world first? [Our Lair](Our-Lair.md) · [Known Contacts](Known-Contacts.md) · [What Kind of Game Is This](What-Kind-of-Game.md)
+{ .next-step }

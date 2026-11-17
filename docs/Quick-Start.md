@@ -2,7 +2,7 @@
 
 <div class="onboard-steps">
   <a class="active" href="../Quick-Start/">1. Quick Start (5m)</a>
-  <a href="../Character-Creation-Guide/">2. Build PC (40m)</a>
+  <a href="../Character-Creation-Guide/">2. Build PC (45m)</a>
   <a href="../Before-Session-0/">3. Send to GM (5m)</a>
 </div>
 
@@ -39,9 +39,13 @@ When something bad happens, you can say *"I resist."* You roll, and the **higher
 Realize mid-job that you needed a key, a contact, or a disguise? You can say *"I flash back to having done that,"* for **0–2 Stress**. It's the opposite of D&D planning, and it's fun.
 
 ## The 12 actions (you say what you do — the GM names the skill)
+
 **INSIGHT (thinking):** Hunt (track/shoot a target) · Study (research; read a person or clue) · Survey (spot trouble; case a room) · Tinker (locks, gadgets, field surgery)
+
 **PROWESS (body):** Finesse (sleight of hand, driving, precise fighting) · Prowl (sneak, climb, ambush) · Skirmish (brawl up close) · Wreck (smash, breach, chaos)
+
 **RESOLVE (will):** Attune (sense the supernatural) · Command (intimidate, give orders) · Consort (friends & contacts) · Sway (lie, charm, argue)
+
 *(0 dots = roll two dice and take the **lower**.)* **Bonus:** whenever you roll a **Desperate** action, you mark **1 XP** right away — daring is rewarded.
 
 ## Where to start

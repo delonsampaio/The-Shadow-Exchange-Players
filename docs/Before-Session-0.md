@@ -2,7 +2,7 @@
 
 <div class="onboard-steps">
   <a href="../Quick-Start/">1. Quick Start (5m)</a>
-  <a href="../Character-Creation-Guide/">2. Build PC (40m)</a>
+  <a href="../Character-Creation-Guide/">2. Build PC (45m)</a>
   <a class="active" href="../Before-Session-0/">3. Send to GM (5m)</a>
 </div>
 
