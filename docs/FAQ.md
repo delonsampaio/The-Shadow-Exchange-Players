@@ -1,5 +1,7 @@
 # FAQ — Questions a Nervous First-Timer Would Ask
 
+<img class="portrait" src="../assets/consequence.jpg" alt="Consequence, the shop cat, asleep on something important.">
+
 **Do I need to know Blades in the Dark?**
 No. Read the [Quick Start](Quick-Start.md) (5 minutes). The GM and the Co-GM explain each mechanic the first time it comes up.
 

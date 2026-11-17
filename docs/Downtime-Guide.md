@@ -69,3 +69,4 @@ Your character's Vice is not a character flaw to be optimized away. It is the th
 ---
 
 **Next step →** [Glossary](Glossary.md) · [FAQ](FAQ.md)
+{ .next-step }

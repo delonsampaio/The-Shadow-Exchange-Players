@@ -51,3 +51,4 @@ You do **not** need to memorize actions, harm levels, or clocks. The GM and Co-G
 ---
 
 **Next step →** [Character Creation Guide](Character-Creation-Guide.md) — build your character
+{ .next-step }

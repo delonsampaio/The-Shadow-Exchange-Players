@@ -146,4 +146,5 @@ That's enough. Everything else, we figure out at the table.
 ---
 
 **Next step →** [Before Session 0](Before-Session-0.md) — your checklist
+{ .next-step }
 

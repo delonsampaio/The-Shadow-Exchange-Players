@@ -172,3 +172,4 @@ During the score, when you need something, you declare you have it and check off
 ---
 
 **Next step →** [Downtime Guide](Downtime-Guide.md) · [Glossary](Glossary.md) · [FAQ](FAQ.md)
+{ .next-step }

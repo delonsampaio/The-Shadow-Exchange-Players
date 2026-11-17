@@ -87,3 +87,4 @@ When a scene feels quiet: stay in it. Ask what your character notices. Describe 
 ---
 
 **Next step →** [Our Lair](Our-Lair.md) — meet the bookshop · or jump to [Character Creation Guide](Character-Creation-Guide.md)
+{ .next-step }

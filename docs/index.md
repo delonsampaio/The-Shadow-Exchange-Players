@@ -1,4 +1,24 @@
-# Welcome to The Shadow Exchange
+---
+hide:
+  - navigation
+  - toc
+title: The Shadow Exchange
+---
+
+<div class="hero" markdown>
+<div class="hero__text" markdown>
+
+<p class="hero__kicker">A Blades in the Dark campaign</p>
+
+# The Shadow Exchange
+
+<p class="hero__tag">Quiet dread. Moral weight. A cat who is always asleep on the evidence.</p>
+
+[Start here :material-arrow-right:](Quick-Start.md){ .md-button .md-button--primary }
+[Before Session 0](Before-Session-0.md){ .md-button }
+
+</div>
+</div>
 
 > *"The world is exactly as it appears — if you're not looking closely. Governments function. Cities run. People go to work. And somewhere in the gap between a gas leak and a missing person report, something inhuman gets quietly erased from the record.*
 >
@@ -8,7 +28,33 @@
 >
 > *Welcome to The Shadow Exchange."*
 
----
+## Start here
+
+**Never played Blades in the Dark? Perfect.** Three steps — about 50 minutes in all:
+
+<div class="grid cards" markdown>
+
+- :material-book-open-variant:{ .lg } **1. Read the Quick Start**
+
+    5 minutes. The dice, Position & Effect, and the 12 actions.
+
+    [Open the Quick Start →](Quick-Start.md)
+
+- :material-account-edit:{ .lg } **2. Build your character**
+
+    Pick a playbook, a Vice, a Friend, a Rival and a Cursed Heirloom. Free sheets included.
+
+    [Character Creation →](Character-Creation-Guide.md)
+
+- :material-send:{ .lg } **3. Send the GM your details**
+
+    A short checklist of exactly what to send — you can screenshot it.
+
+    [Before Session 0 →](Before-Session-0.md)
+
+</div>
+
+Everything else is optional reference — skim it whenever you're curious. You don't need to know the rules cold: the GM (and the AI Co-GM running sessions with us) will explain every mechanic the first time it comes up. **What you need to know is your character and your vice.**
 
 ## What kind of game is this?
 
@@ -47,40 +93,13 @@ You will be in the middle of the score before you've finished planning. That's b
 
 ---
 
-## Start here
+## Where to go next
 
-**Never played Blades in the Dark? Perfect.** Three steps:
+<div class="grid cards" markdown>
 
-1. **Read the [Quick Start](Quick-Start.md)** — 5 minutes.
-2. **Build your character** with the [Character Creation Guide](Character-Creation-Guide.md).
-3. **Send the GM your character details** — the [Before Session 0](Before-Session-0.md) checklist has the exact list. *(Free playbook sheets: [Official Resources](Official-Resources.md).)*
+- :material-home-city:{ .lg } **[Our Lair](Our-Lair.md)** — the bookshop, the building, and what your characters already know.
+- :material-sword-cross:{ .lg } **[Rules and Mechanics](Rules-and-Mechanics.md)** — the longer reference, all 12 actions.
+- :material-help-circle:{ .lg } **[FAQ](FAQ.md)** and **[Glossary](Glossary.md)** — the nervous-first-timer questions.
+- :material-download:{ .lg } **[Official Resources](Official-Resources.md)** — free playbook sheets and the official rules.
 
-That's it. Everything else is optional reference you can skim whenever you're curious: [What Kind of Game Is This](What-Kind-of-Game.md) · [Our Lair](Our-Lair.md) · [Known Contacts](Known-Contacts.md) · [Rules and Mechanics](Rules-and-Mechanics.md) · [Downtime Guide](Downtime-Guide.md) · [Glossary](Glossary.md) · [FAQ](FAQ.md) · [Session 0 Agenda](Session-0-Agenda.md).
-
-You don't need to know the rules cold. The GM (and the AI Co-GM running sessions with us) will explain every mechanic the first time it comes up. What you need to know is your character and your vice.
-
----
-
-## Navigation
-
-### Before Session 0
-- [Before Session 0](Before-Session-0.md) — **the checklist**
-- [Quick Start](Quick-Start.md) — **start here** (5 minutes; no prior Blades knowledge needed)
-- [What Kind of Game Is This](What-Kind-of-Game.md) — Tone, atmosphere, and what kind of character fits this world
-- [Session 0 Agenda](Session-0-Agenda.md) — What happens at Session 0 and what to bring
-
-### The World & the Crew
-- [Our Lair](Our-Lair.md) — The firm, the building, the work, and the factions your characters know
-- [Known Contacts](Known-Contacts.md) — The people your crew has worked with for two years
-
-### The Rules
-- [Official Resources](Official-Resources.md) — **free playbook sheets** and the official rules
-- [Glossary](Glossary.md) — Plain-English definitions
-- [FAQ](FAQ.md) — Questions a first-timer would ask
-- [Rules and Mechanics](Rules-and-Mechanics.md) — How the system works, including all 12 actions
-- [Character Creation Guide](Character-Creation-Guide.md) — Step-by-step character building
-- [Downtime Guide](Downtime-Guide.md) — What happens between scores
-
-### During the Campaign
-- [Session Recaps](Session-Recaps.md) — What the crew did, session by session
-- [The Anchor Ledger](The-Anchor-Ledger.md) — Updated after sessions: what we've taken, returned, or lost
+</div>

@@ -1,12 +1,15 @@
 site_name: The Shadow Exchange — Player Guide
 site_description: Player guide for The Shadow Exchange, a Blades in the Dark campaign.
 site_url: https://delonsampaio.github.io/The-Shadow-Exchange-Players/
-repo_url: https://github.com/delonsampaio/The-Shadow-Exchange-Players
 edit_uri: ""
 
 theme:
   name: material
   language: en
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
+  font:
+    text: Inter
   palette:
     - scheme: slate
       primary: black
@@ -21,14 +24,23 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark mode
   features:
+    - navigation.instant
+    - navigation.tabs
     - navigation.top
-    - navigation.sections
     - navigation.footer
+    - navigation.indexes
+    - content.tooltips
     - search.highlight
     - toc.follow
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - admonition
   - attr_list
   - md_in_html

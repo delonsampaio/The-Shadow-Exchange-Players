@@ -96,3 +96,4 @@ You also keep what you find. Monster parts, supernatural objects, things the Min
 ---
 
 **Next step →** [Character Creation Guide](Character-Creation-Guide.md) — build your character
+{ .next-step }
