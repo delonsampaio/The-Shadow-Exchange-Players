@@ -1,0 +1,59 @@
+site_name: The Shadow Exchange — Player Guide
+site_description: Player guide for The Shadow Exchange, a Blades in the Dark campaign.
+site_url: https://delonsampaio.github.io/The-Shadow-Exchange-Players/
+repo_url: https://github.com/delonsampaio/The-Shadow-Exchange-Players
+edit_uri: ""
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  features:
+    - navigation.top
+    - navigation.sections
+    - navigation.footer
+    - search.highlight
+    - toc.follow
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - sane_lists
+
+nav:
+  - Home: index.md
+  - Start Here:
+      - Before Session 0: Before-Session-0.md
+      - Quick Start: Quick-Start.md
+      - Official Resources: Official-Resources.md
+  - The World:
+      - What Kind of Game: What-Kind-of-Game.md
+      - Our Lair: Our-Lair.md
+      - Known Contacts: Known-Contacts.md
+  - The Rules:
+      - Character Creation: Character-Creation-Guide.md
+      - Rules and Mechanics: Rules-and-Mechanics.md
+      - Downtime Guide: Downtime-Guide.md
+      - Glossary: Glossary.md
+      - FAQ: FAQ.md
+  - The Campaign:
+      - Session 0 Agenda: Session-0-Agenda.md
+      - Session Recaps: Session-Recaps.md
+      - The Anchor Ledger: The-Anchor-Ledger.md
+
+copyright: >
+  This work is based on <a href="http://www.bladesinthedark.com/">Blades in the Dark</a>, product of One Seven Design, developed and authored by John Harper, and licensed for our use under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported license</a>.
