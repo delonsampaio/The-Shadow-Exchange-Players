@@ -18,7 +18,7 @@ Print it, or fill it in on a tablet/computer. **Pick one playbook** (the [Charac
 | **Spider** — a devious mastermind | [Spider (PDF)](https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Spider.pdf) |
 | **Whisper** — an arcane adept & channeler | [Whisper (PDF)](https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Whisper.pdf) |
 
-*Other sheets:* [Blank Character Sheet](https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Blank_Character_Sheet.pdf) · [Core Play Sheets — one-page cheat sheets, great for beginners](https://bladesinthedark.com/sites/default/files/sheets/blades_core_playsheets.pdf) · [Full Player's Kit](https://bladesinthedark.com/sites/default/files/blades_playerkit_v8_2.pdf) · [All downloads](https://bladesinthedark.com/downloads)
+*Other sheets:* [Blank Character Sheet](https://bladesinthedark.com/sites/default/files/sheets/blades_sheets_v8_2_Blank_Character_Sheet.pdf) · [Core Play Sheets — one-page rules and crew reference sheets](https://bladesinthedark.com/sites/default/files/sheets/blades_core_playsheets.pdf) · [Full Player's Kit](https://bladesinthedark.com/sites/default/files/blades_playerkit_v8_2.pdf) · [All downloads](https://bladesinthedark.com/downloads)
 
 > **Phone tip:** open the PDF in your browser and use "Share → Print/Save", or just read the abilities and tell the GM which one you like.
 

@@ -89,9 +89,7 @@ You also keep what you find. Monster parts, supernatural objects, things the Min
 
 ## The Practical Stuff
 
-- When the GM or Co-GM says "What does the crew do?" — that's your cue. Make a decision, individually or as a group.
-- You can call a **Flashback** at any time to establish something your character prepared before the current scene. It costs Stress. Ask if you're not sure how it works.
-- Your characters have worked in this building for two years. If you want to know whether you'd know something about the lair or its equipment — you would.
+Your characters have worked in this building for two years. If you want to know whether you'd know something about the lair or its equipment — you would.
 
 ---
 

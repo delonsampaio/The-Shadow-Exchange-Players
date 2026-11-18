@@ -30,7 +30,7 @@ title: The Shadow Exchange
 
 ## Start here
 
-**Never played Blades in the Dark? Perfect.** Three steps:
+**New to Blades?** Three steps, in order:
 
 <div class="grid cards" markdown>
 
@@ -54,15 +54,11 @@ title: The Shadow Exchange
 
 </div>
 
-Everything else is optional reference — skim it whenever you're curious. You don't need to know the rules cold: the GM (and the AI Co-GM running sessions with us) will explain every mechanic the first time it comes up. **What you need to know is your character and your vice.**
+Everything else is optional reference — skim it whenever you're curious. The GM and the AI Co-GM handle mechanical edge cases at the table. **What you need is your character and your Vice.**
 
-## What kind of game is this?
+## Tone
 
-**Industrial-occult noir.** The supernatural is real. The public doesn't know. You are the people who clean it up — and quietly profit from it.
-
-The tone is quiet dread and moral ambiguity, not action-movie heroics. The scariest thing in most scenes is a witness with a phone. Your clients are a government body that treats you as pest control. Your best leads come from a community of things the government is trying to exterminate.
-
-You will make hard choices. The job will cost something. That's where the story lives — and between the hard choices, it is allowed to be very funny. Think monster-of-the-week: real dread, real heart, and a cat who is always asleep on the evidence.
+**Industrial-occult noir.** Quiet dread and moral ambiguity, not action-movie heroics — and between the hard choices, it is allowed to be very funny. Think monster-of-the-week: real dread, real heart, and a cat who is always asleep on the evidence. More in [What Kind of Game](What-Kind-of-Game.md).
 
 ---
 
@@ -72,24 +68,12 @@ You will make hard choices. The job will cost something. That's where the story 
 |---|---|
 | Attack roll + damage roll | One roll. Most rolls produce both an outcome *and* a complication, even on a success. |
 | HP attrition | **Stress** (push harder, resist consequences) and **Harm** (slow, accumulated damage). |
-| Class features + spell slots | **Action ratings** (12 broad skills) and **special abilities** (playbook). |
+| Class features + spell slots | **Action ratings** (12 broad actions) and **special abilities** (playbook). |
 | Plan before entering | **Engagement roll** drops you into the score already in progress. Plan retroactively via flashback. |
 | GM rolls vs. you | The GM never rolls dice. Every roll is yours. |
 | Loot is loot | Some loot has a name. A monster's tether to the human world is a person's most precious thing. Taking it has weight. |
 
 The single biggest shift: **one roll produces a complete result**, including both what you accomplished and what it cost you. There is no "I rolled a 14 to persuade him" with no further consequence. Everything bites back a little.
-
----
-
-## The shape of a session
-
-Every session has the same rhythm:
-
-1. **Free play** — brief scenes at the bookshop or in the city. This is where your characters breathe.
-2. **The score** — the job. You roll an Engagement Roll and you're already inside.
-3. **Downtime** — clear stress, pursue personal projects, deal with the aftermath.
-
-You will be in the middle of the score before you've finished planning. That's by design. If you needed to bring a specific tool or have a specific conversation first — you can flash back to having done it.
 
 ---
 
@@ -99,7 +83,7 @@ You will be in the middle of the score before you've finished planning. That's b
 
 - :material-home-city:{ .lg } **[Our Lair](Our-Lair.md)** — the bookshop, the building, and what your characters already know.
 - :material-sword-cross:{ .lg } **[Rules and Mechanics](Rules-and-Mechanics.md)** — the longer reference, all 12 actions.
-- :material-help-circle:{ .lg } **[FAQ](FAQ.md)** and **[Glossary](Glossary.md)** — quick answers and the terms in one place.
+- :material-help-circle:{ .lg } **[Glossary](Glossary.md)** — the game's terms in one place.
 - :material-download:{ .lg } **[Official Resources](Official-Resources.md)** — free playbook sheets and the official rules.
 
 </div>

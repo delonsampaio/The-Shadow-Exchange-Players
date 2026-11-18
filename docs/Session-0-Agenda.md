@@ -6,21 +6,7 @@ Read this before you arrive. Session 0 has a specific shape. Knowing it ahead of
 
 ## Before you arrive
 
-**Bring:**
-
-- Your completed character sheet (digital is fine; photo of paper is fine)
-- Your Cursed Family Heirloom (one sentence — see [Character Creation Guide](Character-Creation-Guide.md))
-- Your Friend and Rival (names + one sentence each)
-- Your answer to the one question you sent the GM
-
-**Required:**
-
-1. [Quick Start](Quick-Start.md) — the dice and the 12 actions on one screen.
-2. [Character Creation Guide](Character-Creation-Guide.md) — build your character (grab your free sheet from [Official Resources](Official-Resources.md)).
-
-**Optional, whenever you're curious:** [What Kind of Game Is This](What-Kind-of-Game.md) · [Our Lair](Our-Lair.md) · [Rules and Mechanics](Rules-and-Mechanics.md) · [Downtime Guide](Downtime-Guide.md) · [Glossary](Glossary.md) · [FAQ](FAQ.md)
-
-If you haven't finished your sheet, come anyway. We can fill in gaps during Beat 2. But the Heirloom, Friend, and Rival are worth having before you walk in.
+Finish the [Before Session 0](Before-Session-0.md) checklist and bring your sheet (digital, or a photo of paper). No sheet? Come anyway — but the Heirloom, Friend and Rival are worth having before you walk in.
 
 ---
 
@@ -62,15 +48,15 @@ The GM will walk you through:
 - **One special crew ability** chosen together from a short list
 - **One additional crew upgrade**
 
-You don't need to have memorized the SRD for this. The GM will present the options and explain what they do. If something is unclear, ask.
+The GM will present the options and explain what they do.
 
-**There is no wrong crew build.** These are small mechanical choices that shape emphasis, not fate.
+These are small mechanical choices that shape emphasis, not fate.
 
 ---
 
 ### Beat 4 — Friends, Rivals, and Heirlooms
 
-Each player walks the table through their Friend, their Rival, and their Cursed Family Heirloom. One sentence each. The purpose is not to explain backstory — it is to put these in the room so everyone at the table knows what's circling each character.
+Each player walks the table through their Friend, their Rival, and their Cursed Heirloom. One sentence each. The purpose is not to explain backstory — it is to put these in the room so everyone at the table knows what's circling each character.
 
 The GM is listening. These will appear in play.
 
@@ -78,7 +64,7 @@ The GM is listening. These will appear in play.
 
 ### Beat 4b — The Trial Run
 
-Before anything real happens, the GM runs **one practice roll** with nothing at stake — you'll learn the dice, how Position and Effect work, and how Resistance feels, in a silly low-stakes moment involving a cat. **No one is graded. There's no wrong move.**
+Before anything real happens, the GM runs **one practice roll** with nothing at stake — a low-stakes moment involving a cat, to test-drive the dice, Position, Effect and Resistance.
 
 ---
 
@@ -90,15 +76,6 @@ Answer honestly. Your answer becomes part of the campaign's operating instructio
 
 ---
 
-## What you leave with
-
-At the end of Session 0, you will have:
-
-- A crew that exists as a complete entity, not just a group of characters
-- A shared fiction about how you came to work together
-- An understanding of what each other's characters carry
-- A GM who knows what each player wants and is afraid of
-
 **Session 1 begins the work.** An envelope will be on the counter.
 
 ---
@@ -108,7 +85,8 @@ At the end of Session 0, you will have:
 - **Session 0 has no score.** No heist, no engagement roll, no Heat. Tonight is setup.
 - **You will not learn the full rules tonight.** The rules reveal themselves through play. Bring what you know and trust the GM to handle the rest.
 - The GM will have printed reference cards at the table. Bring your sheet; everything else is provided.
-- **The TV** shows scene images, documents your characters are holding, and public clocks. **Anything on it is something your character can see.** (Secrets never go on the TV.)
+- **The Co-GM and the TV.** The human GM runs the game and makes every call. The AI Co-GM helps describe places, voices characters, and updates the shared TV with scene images, documents your characters are holding, and public clocks. **Anything on the TV is something your character can see.** (Secrets never go on it.)
+- **Missing a session.** Tell the GM. We'll work around you — your character can be "lost in their Vice" off-camera.
 - **Bring your sense of humor.** This campaign is dread *and* laughs — see [What Kind of Game Is This](What-Kind-of-Game.md).
 
 ---

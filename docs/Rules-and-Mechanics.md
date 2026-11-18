@@ -6,7 +6,9 @@
 
 ## The Core Loop
 
-**Engagement Roll → Score (action rolls, consequences, resistance) → Downtime → next score.**
+**Free play → Score (Engagement Roll → action rolls, consequences, resistance) → Downtime → next score.**
+
+**How a score starts.** You don't map out the job. The crew picks one of six plans and supplies the one detail it needs: *Assault* (the point of attack), *Deception* (the method of deception), *Stealth* (the point of infiltration), *Occult* (the arcane method), *Social* (the social connection) or *Transport* (the route and means). Everyone picks a **Load**. Then comes the **Engagement Roll**: it starts at 1d for sheer luck, +1d for each major advantage (a bold plan, a detail that hits the target's weak point, a contact who helps) and −1d for each major disadvantage (an overly complex plan, a target strongest against that approach, an enemy interfering). **6** starts you in a *Controlled* position, **4–5** *Risky*, **1–3** *Desperate*, and a **critical** carries you past the first obstacle. The GM cuts straight to that first obstacle.
 
 You will be in the middle of the job before you've finished planning. That's the design. If you needed something — a forged badge, a bribed contact, a scouted route — you **flash back** to having arranged it before the scene started.
 
@@ -84,10 +86,12 @@ Stress is your resource. Spend it to push yourself harder or absorb consequences
 
 - **Push yourself** — +1 die to a roll, or improve your Effect by one level. Cost: 2 Stress.
 - **Assist** another PC — +1 die to their roll. Cost: 1 Stress.
-- **Resist a consequence** — roll your relevant attribute (Insight / Prowess / Resolve), spend (6 minus highest die) Stress to reduce or negate the consequence. *Resistance always works.*
-- **Flashback** — establish something you prepared before the scene. Cost: 0 / 1 / 2 Stress depending on how plausible and complex it was.
+- **Resist a consequence** — spend 6 minus your highest die in Stress (see *Resistance* below).
+- **Flashback** — establish something you prepared before the scene. Cost: 0–2 Stress (see *Flashbacks* below).
 
 *(Your **attribute** rating — Insight, Prowess or Resolve — is the number of actions in that column that have at least 1 dot. You roll it for resistance and for your Vice.)*
+
+**Bonus dice are capped.** A roll can have at most two: one from a teammate's Assist, and one from *either* Push yourself *or* a Devil's Bargain — you can't take dice from both.
 
 Max stress: **9.** When you hit 9, you take a **Trauma** and reset to 0.
 
@@ -117,6 +121,8 @@ When you take physical or mental damage, you mark harm by level. Harm is slow �
 | **4 — Fatal** | Out of action | Electrocuted, Stabbed in the Heart |
 
 Resistance can reduce harm by one level *before* it's recorded. If you resist a Level 3 consequence, it becomes Level 2.
+
+**Armor** is the alternative: if you carry armor that fits the situation, mark an armor box *instead of rolling to resist* to reduce or avoid the consequence — no roll, no Stress. Armor and Heavy Armor are items that take up Load, and your marked boxes are restored when you choose your Load for the next score.
 
 ---
 
@@ -152,6 +158,12 @@ Before any roll, the GM can offer: "+1 die — but a complication happens regard
 
 ---
 
+## Progress Clocks — Big Obstacles Without HP
+
+Most problems resolve with one roll. When an obstacle is complex, or a danger builds over time, the GM draws a **progress clock**: a circle of 4 segments (complex), 6 (more complicated) or 8 (daunting), shown on the TV. When you succeed, your **Effect** fills it — Limited 1 segment, Standard 2, Great 3. A *danger clock* (guards growing suspicious, a patrol closing in) fills the other way: when a complication lands, the GM ticks 1, 2 or 3 segments depending on how severe it is, and resisting shaves those ticks. When a clock fills, the obstacle falls — or the danger arrives.
+
+---
+
 ## Combat — No Initiative
 
 When violence breaks out, there are no turns. Combat is an obstacle like any other — an action roll with position and effect. We move the spotlight around the table cinematically. There is no hit point track to chip away. The fight ends when one side can no longer continue, not when a number hits zero.
@@ -172,5 +184,5 @@ During the score, when you need something, you declare you have it and check off
 
 ---
 
-**Next step →** [Downtime Guide](Downtime-Guide.md) · [Glossary](Glossary.md) · [FAQ](FAQ.md)
+**Next step →** [Downtime Guide](Downtime-Guide.md) · [Glossary](Glossary.md)
 { .next-step }

@@ -1,9 +1,9 @@
 # Character Creation Guide
 
 <div class="onboard-steps">
-  <a href="../Quick-Start/">1. Quick Start (5m)</a>
-  <a class="active" href="../Character-Creation-Guide/">2. Build PC (45m)</a>
-  <a href="../Before-Session-0/">3. Send to GM (5m)</a>
+  <a href="../Quick-Start/">1. Quick Start</a>
+  <a class="active" href="../Character-Creation-Guide/">2. Build PC</a>
+  <a href="../Before-Session-0/">3. Send to GM</a>
 </div>
 
 **Read the [Quick Start](Quick-Start.md) first — it has the dice rule and all 12 actions on one screen. That's all you need.** Everything else ([What Kind of Game Is This](What-Kind-of-Game.md), [Our Lair](Our-Lair.md), [Rules and Mechanics](Rules-and-Mechanics.md)) is optional reference if you get curious.
@@ -54,9 +54,9 @@ If you're not sure what to pick, ask the GM. He knows what the rest of the table
 
 ---
 
-## Step 3 — Action ratings (your skills)
+## Step 3 — Action ratings
 
-You have three **attributes** (Insight, Prowess, Resolve), each containing four **actions** — twelve skills total. Your **dots** in an action are how many six-sided dice you roll for that skill.
+You have three **attributes** (Insight, Prowess, Resolve), each containing four **actions** — twelve actions in all. Your **dots** in an action are how many six-sided dice you roll for that action.
 
 **How to place your 7 dots:**
 
@@ -107,7 +107,7 @@ Don't build a packing list. In Blades, you choose what you brought *during the s
 
 ---
 
-## Step 7 — The Cursed Family Heirloom
+## Step 7 — The Cursed Heirloom
 
 This is a *Shadow Exchange* requirement, not standard Blades.
 
@@ -131,28 +131,13 @@ Your answer becomes part of how the GM weights what happens to your character sp
 
 ---
 
-## What to send the GM before Session 0
+## What to send the GM
 
-1. Your playbook choice.
-2. Name (and alias), look (three details), heritage and background (one specific line), and your **Vice + Purveyor**.
-3. Your action dot distribution (if you don't have your sheet, just say which actions you'd put your 4 extra dots in).
-4. Your starting special ability.
-5. Close Friend — name + one sentence.
-6. Rival — name + one sentence.
-7. Your Cursed Family Heirloom — the object.
-8. Your answer to the one question.
-
-That's enough. Everything else, we figure out at the table.
+When Steps 1–8 are done, copy the template on **[Before Session 0](Before-Session-0.md)** and send the GM your choices. That's enough — everything else, we figure out at the table.
 
 ---
 
-## Last notes
-
-**You are not your character.** The system rewards taking damage, trauma, and complicated moral hits. Don't play to win — play to make the story interesting. Your character's worst moments are where the campaign earns its weight.
-
-**You don't need to know the rules cold.** The GM and the AI Co-GM running sessions will explain every mechanic the first time it appears, in terms that make sense if you're coming from D&D. Your job is to know your character and make decisions that feel right for them.
-
-**Ask questions.** Blades is full of small mechanics that look strange until they click. Ask before the session, ask during — there are no wrong questions.
+**Play to make the story interesting, not to win.** The system rewards taking damage, trauma and complicated moral hits; your character's worst moments are where the campaign earns its weight.
 
 ---
 

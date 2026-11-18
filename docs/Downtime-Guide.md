@@ -40,18 +40,20 @@ Seek out a physicker (a medic or healer) to begin clearing Harm. Roll the releva
 *You need this if you took Level 2 or 3 Harm during the score. Level 1 Harm can sometimes clear on its own.*
 
 ### Reduce Heat
-*(**Heat** is how much attention the crew has drawn; high Heat can trigger an **Entanglement** — an unwanted consequence of a job.)* The crew generates Heat from how visible their operations are. Roll to lower the crew's Heat — cover your tracks, destroy evidence, bribe the right people, disappear from the right records.
+The crew generates Heat from how visible their operations are. Roll to lower the crew's Heat — cover your tracks, destroy evidence, bribe the right people, disappear from the right records.
 
 *Worth doing when Heat is climbing. At high Heat, the Entanglement table starts producing real problems.*
 
 ### Train
-Mark 1 XP in an action group or your playbook track. Describe briefly what your character was doing between sessions to develop that skill.
+Mark 1 XP in one attribute (Insight, Prowess or Resolve) or your playbook track. Describe briefly what your character was doing between sessions to develop it.
 
 ---
 
-## Crew Advancement
+## Advancement
 
-At the end of each session, the GM reviews four XP triggers with the crew and marks XP for any that occurred. When the crew's track fills (8 XP), they advance — taking a new special ability or two crew upgrade boxes.
+**Character XP.** You mark 1 XP whenever you roll a Desperate action. At the end of each session, review the XP triggers on your sheet and mark 1 XP for each one that happened (2 XP if it happened a lot): your playbook's own trigger, expressing your beliefs, drives, heritage or background, and struggling with issues from your Vice or Trauma.
+
+**Crew XP.** At the end of each session, the GM reviews four XP triggers with the crew and marks XP for any that occurred. When the crew's track fills (8 XP), they advance — taking a new special ability or two crew upgrade boxes.
 
 The crew's specific trigger for *The Shadow Exchange*: **completing a score that holds the cover-up together, or taking meaningful action to protect a Twice-Born from extraction or exposure.**
 
@@ -69,5 +71,5 @@ Your character's Vice is not a character flaw to be optimized away. It is the th
 
 ---
 
-**Next step →** [Glossary](Glossary.md) · [FAQ](FAQ.md)
+**Next step →** [Glossary](Glossary.md) · [Before Session 0](Before-Session-0.md)
 { .next-step }

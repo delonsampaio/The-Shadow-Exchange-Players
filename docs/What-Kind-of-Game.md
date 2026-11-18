@@ -1,6 +1,6 @@
 # What Kind of Game Is This?
 
-Read this before you build your character. Your concept will land better if you arrive knowing the register.
+Your concept will land better if you arrive knowing the register.
 
 ---
 
