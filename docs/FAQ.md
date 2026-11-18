@@ -1,7 +1,7 @@
-# FAQ — Questions a Nervous First-Timer Would Ask
+# FAQ
 
 **Do I need to know Blades in the Dark?**
-No. Read the [Quick Start](Quick-Start.md) (5 minutes). The GM and the Co-GM explain each mechanic the first time it comes up.
+No. Read the [Quick Start](Quick-Start.md). The GM and the Co-GM explain each mechanic the first time it comes up.
 
 **I'm used to D&D. What's the biggest difference?**
 There's no hit points, no initiative, and the GM never rolls. Most rolls give you *both* what you wanted and a cost. You can **flash back** to planning instead of planning in advance.
@@ -18,7 +18,7 @@ The human GM runs the game and makes the calls. The AI Co-GM helps describe plac
 **Should we coordinate our three characters first?**
 No need. Any mix works — though one talker/planner (Slide or Spider) or tinkerer (Leech) alongside a sneak or fighter makes things smoother. If you all pick the same playbook, the GM will say so.
 
-**What if I'm shy or don't know what my character would say?**
+**What if I can't think of what my character would say?**
 Short answers are fine. The GM will build around whatever you give. You'll also get a menu of options when you're stuck. There is no wrong answer.
 
 **What if I roll badly?**

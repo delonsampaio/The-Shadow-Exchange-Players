@@ -1,4 +1,4 @@
-# Quick Start — Read This First (5 minutes)
+# Quick Start — Read This First
 
 <div class="onboard-steps">
   <a class="active" href="../Quick-Start/">1. Quick Start (5m)</a>

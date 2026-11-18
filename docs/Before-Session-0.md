@@ -12,8 +12,8 @@
 
 ## The 3 steps
 
-- [ ] **Read the [Quick Start](Quick-Start.md)** — 5 minutes. Nothing else is required reading.
-- [ ] **Build your character** with the [Character Creation Guide](Character-Creation-Guide.md) (about 45 minutes; it walks you through it).
+- [ ] **Read the [Quick Start](Quick-Start.md)** — nothing else is required reading.
+- [ ] **Build your character** with the [Character Creation Guide](Character-Creation-Guide.md) (it walks you through it).
 - [ ] **Send the GM these 8 things** — a text, a message, or an email is fine; the GM will tell you where to send it:
     1. Your **playbook**
     2. **Name** (and alias), **look** (three details), **heritage and background** (one specific line), and your **Vice + Purveyor**

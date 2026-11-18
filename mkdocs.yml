@@ -55,7 +55,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Start Here:
-      - "1. Quick Start (5 min)": Quick-Start.md
+      - "1. Quick Start": Quick-Start.md
       - "2. Build your character": Character-Creation-Guide.md
       - "3. Before Session 0": Before-Session-0.md
       - Playbook Sheets (PDFs): Official-Resources.md

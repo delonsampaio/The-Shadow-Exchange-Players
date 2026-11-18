@@ -41,5 +41,5 @@
 
 ---
 
-**Next step →** [FAQ](FAQ.md) — the questions a nervous first-timer would ask
+**Next step →** [FAQ](FAQ.md) — quick answers about the game and the table
 { .next-step }

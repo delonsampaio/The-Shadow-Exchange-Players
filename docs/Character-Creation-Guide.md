@@ -6,7 +6,7 @@
   <a href="../Before-Session-0/">3. Send to GM (5m)</a>
 </div>
 
-**Read the [Quick Start](Quick-Start.md) first (5 minutes) — it has the dice rule and all 12 actions on one screen. That's all you need.** Everything else ([What Kind of Game Is This](What-Kind-of-Game.md), [Our Lair](Our-Lair.md), [Rules and Mechanics](Rules-and-Mechanics.md)) is optional reference if you get curious.
+**Read the [Quick Start](Quick-Start.md) first — it has the dice rule and all 12 actions on one screen. That's all you need.** Everything else ([What Kind of Game Is This](What-Kind-of-Game.md), [Our Lair](Our-Lair.md), [Rules and Mechanics](Rules-and-Mechanics.md)) is optional reference if you get curious.
 
 Build your character before Session 0. Send the GM what this guide asks for. We'll introduce everyone at the table and build the crew together.
 

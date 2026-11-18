@@ -14,7 +14,7 @@ title: The Shadow Exchange
 
 <p class="hero__tag">Quiet dread. Moral weight. A cat who is always asleep on the evidence.</p>
 
-[1. Quick Start (5 min) :material-arrow-right:](Quick-Start.md){ .md-button .md-button--primary }
+[1. Quick Start :material-arrow-right:](Quick-Start.md){ .md-button .md-button--primary }
 [Session 0 checklist](Before-Session-0.md){ .md-button }
 
 </div>
@@ -30,13 +30,13 @@ title: The Shadow Exchange
 
 ## Start here
 
-**Never played Blades in the Dark? Perfect.** Three steps — about 50 minutes in all:
+**Never played Blades in the Dark? Perfect.** Three steps:
 
 <div class="grid cards" markdown>
 
 - :material-book-open-variant:{ .lg } **1. Read the Quick Start**
 
-    5 minutes. The dice, Position & Effect, and the 12 actions.
+    The dice, Position & Effect, and the 12 actions.
 
     [Open the Quick Start →](Quick-Start.md)
 
@@ -85,9 +85,9 @@ The single biggest shift: **one roll produces a complete result**, including bot
 
 Every session has the same rhythm:
 
-1. **Free play** — brief scenes at the bookshop or in the city. 10–20 minutes. This is where your characters breathe.
-2. **The score** — the job. You roll an Engagement Roll and you're already inside. 60–90 minutes.
-3. **Downtime** — clear stress, pursue personal projects, deal with the aftermath. 30–45 minutes.
+1. **Free play** — brief scenes at the bookshop or in the city. This is where your characters breathe.
+2. **The score** — the job. You roll an Engagement Roll and you're already inside.
+3. **Downtime** — clear stress, pursue personal projects, deal with the aftermath.
 
 You will be in the middle of the score before you've finished planning. That's by design. If you needed to bring a specific tool or have a specific conversation first — you can flash back to having done it.
 
@@ -99,7 +99,7 @@ You will be in the middle of the score before you've finished planning. That's b
 
 - :material-home-city:{ .lg } **[Our Lair](Our-Lair.md)** — the bookshop, the building, and what your characters already know.
 - :material-sword-cross:{ .lg } **[Rules and Mechanics](Rules-and-Mechanics.md)** — the longer reference, all 12 actions.
-- :material-help-circle:{ .lg } **[FAQ](FAQ.md)** and **[Glossary](Glossary.md)** — the nervous-first-timer questions.
+- :material-help-circle:{ .lg } **[FAQ](FAQ.md)** and **[Glossary](Glossary.md)** — quick answers and the terms in one place.
 - :material-download:{ .lg } **[Official Resources](Official-Resources.md)** — free playbook sheets and the official rules.
 
 </div>
