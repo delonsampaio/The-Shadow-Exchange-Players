@@ -14,7 +14,7 @@ This is **industrial-occult noir**. Quiet dread, moral weight, texture. The work
 
 Here is the kind of moment this campaign is built to produce:
 
-*The cold storage locker in the basement holds seventeen items. You have not opened drawer fourteen in four months. You know what's in it. You know what it's waiting for. You open it anyway because the new job requires it — and when you do, you realize the item has been slowly, incrementally moving in a way you cannot account for, because the cold is supposed to stop that, and the cold has always stopped that.*
+*The cold storage locker in the Containment Suite holds seventeen items. You have not opened drawer fourteen in four months. You know what's in it. You know what it's waiting for. You open it anyway because the new job requires it — and when you do, you realize the item has been slowly, incrementally moving in a way you cannot account for, because the cold is supposed to stop that, and the cold has always stopped that.*
 
 Here is another:
 

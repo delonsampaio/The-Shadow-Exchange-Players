@@ -6,7 +6,7 @@ After every score, you enter Downtime. This is where characters breathe, recover
 
 ## The structure
 
-Each PC gets **two free Downtime Activities**. Additional activities cost 1 Coin or 1 Rep each. Take them in whatever order makes sense for your character.
+Downtime runs in order: Payoff → Heat → Entanglement → your activities. Each PC gets **two free Downtime Activities**. Additional activities cost 1 Coin or 1 Rep each. Take them in whatever order makes sense for your character.
 
 ---
 
@@ -35,9 +35,9 @@ Good first projects:
 *If you pick this activity in Session 1's downtime, you are starting a character throughline.*
 
 ### Recover
-Seek out a physicker (a medic or healer) to begin clearing Harm. Roll the relevant action; ticks fill your healing clock. When the clock fills, your Harm drops by one level.
+Seek out a physicker (a medic or healer) to begin clearing Harm. Your healer rolls (Tinker for a PC with the Physicker ability, or the NPC's quality) and you mark segments on your healing clock. When the clock fills, your Harm drops by one level.
 
-*You need this if you took Level 2 or 3 Harm during the score. Level 1 Harm can sometimes clear on its own.*
+*You need this if you took Level 2 or 3 Harm during the score.*
 
 ### Reduce Heat
 The crew generates Heat from how visible their operations are. Roll to lower the crew's Heat — cover your tracks, destroy evidence, bribe the right people, disappear from the right records.
@@ -61,7 +61,7 @@ The crew's specific trigger for *The Shadow Exchange*: **completing a score that
 
 ## Entanglements
 
-If the crew's Heat is high enough after a score, roll for an Entanglement — an unwanted consequence from the job's footprint. This can be a Ministry visit, an angry contact, a rival firm making a move, or something worse. Low Heat in the early game means few Entanglements. Let Heat climb and they become a recurring problem.
+After every score the GM rolls one Entanglement — an unwanted consequence from the job's footprint; your Heat decides how bad. This can be a Ministry visit, an angry contact, a rival firm making a move, or something worse. Low Heat in the early game means milder ones. Let Heat climb and they become a recurring problem.
 
 ---
 

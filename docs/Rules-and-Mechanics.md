@@ -1,6 +1,6 @@
 # Rules & Mechanics
 
-*New to Blades? Read [Quick Start](Quick-Start.md) first — this page is the longer reference. Read it before distributing your action dots during character creation: you need to know what each action does before you decide where to put your points.*
+*New to Blades? Read [Quick Start](Quick-Start.md) first — this page is the longer reference. The Quick Start covers dot placement; this page is the longer reference.*
 
 ---
 
@@ -93,13 +93,13 @@ Stress is your resource. Spend it to push yourself harder or absorb consequences
 
 **Bonus dice are capped.** A roll can have at most two: one from a teammate's Assist, and one from *either* Push yourself *or* a Devil's Bargain — you can't take dice from both.
 
-Max stress: **9.** When you hit 9, you take a **Trauma** and reset to 0.
+Max stress: **9.** When you hit 9, you take a **Trauma**: you're out of the scene, then you return at 0 Stress. A fourth Trauma retires the character.
 
 ---
 
 ## Resistance — It Always Works
 
-When a consequence lands, you can resist it. You don't need to ask permission. Just say "I resist that."
+When a consequence lands, you can resist it. You don't need to ask permission. Just say "I resist that" — you commit, then roll.
 
 - Roll your attribute (Insight, Prowess, or Resolve) — the GM picks which, based on the nature of the consequence.
 - Spend Stress equal to **6 minus your highest die**. On a 6: 0 Stress. On a critical: clear 1 Stress instead.
@@ -146,7 +146,7 @@ Flashbacks don't undo consequences already in play. They add new fiction that he
 
 ## The Devil's Bargain
 
-Before any roll, the GM can offer: "+1 die — but a complication happens regardless." The guard notices something. A scanner pings. Something breaks. The complication is real whether you succeed or fail. You can always say no to the bargain.
+Before any roll, the GM or any other player can offer: "+1 die — but a complication happens regardless." The guard notices something. A scanner pings. Something breaks. The complication is real whether you succeed or fail. You can always say no to the bargain.
 
 ---
 
@@ -155,6 +155,10 @@ Before any roll, the GM can offer: "+1 die — but a complication happens regard
 **Assist:** Describe how you help and take 1 Stress. The other PC gets +1 die. No roll required.
 
 **Group Action:** When the whole crew needs to do something together (group stealth, a simultaneous breach), everyone rolls. The single highest result counts for the group. The leading PC takes 1 Stress for each teammate who rolled 1–3.
+
+**Protect:** Step in to face a consequence a teammate would otherwise face. You suffer it instead, and you may roll to resist it as normal.
+
+**Set Up:** Create an opening so a teammate who will follow through on your action does better. Only one character may assist a given roll.
 
 ---
 

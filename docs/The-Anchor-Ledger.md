@@ -1,6 +1,6 @@
 # The Anchor Ledger
 
-This ledger tracks the high-threat supernatural tethers we have secured, destroyed, or handed over to the Ministry. 
+This ledger tracks the high-threat supernatural tethers we have seized, destroyed, returned or refused. 
 
 | Date | Location | Anchor Description | Status |
 | :--- | :--- | :--- | :--- |

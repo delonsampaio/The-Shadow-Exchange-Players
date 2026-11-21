@@ -18,7 +18,7 @@ A narrow three-story brick building sandwiched between two glass-and-steel skysc
 
 ### The Front Shop
 
-To any passerby: a struggling bookstore. Old parchment, vanilla, floor wax. A rotary phone. A half-knitted sweater on the reading chair. A sleeping cat on a 1962 Sears catalog that has no business being there. The books are organized by a system only the crew understands.
+To any passerby: a struggling bookstore. Old parchment, vanilla, floor wax. A rotary phone. A half-knitted sweater on the reading chair. A sleeping cat on a 1962 mail-order catalog that has no business being there. The books are organized by a system only the crew understands.
 
 In the back corner, near the Occult & Folklore section, behind a stack of moldering atlases: an old **Zoltar machine** — a glass-fronted booth the size of a phone box, a robed automaton inside with a painted beard and brass hands. The cards are long gone. The machine has been unplugged at the wall for decades.
 
@@ -50,14 +50,14 @@ The Suite smells different from the rest of the shop. Colder. Metallic. You have
 
 **The Lofts** (3rd floor): three bunks, a clothes line, a footlocker each — and the shelf where your Cursed Heirloom lives.
 
-On the plaster by the iron stair, in four different hands, is **the Wall of Rules**:
+On the plaster by the iron stair, in five different hands, is **the Wall of Rules**:
 
 1. Nobody says "basement."
 2. Cold things go in the cold place. *Today.*
 3. If it hums, it goes in the vault.
 4. If it sings, it goes in the vault *and you leave.*
 5. Do not feed Consequence from the evidence.
-6. *(in red ink, a fifth hand)* Do not trust anything that offers you tea.
+6. *(in red ink, a sixth hand)* Do not trust anything that offers you tea.
 
 *Nobody will tell you who wrote Rule 6.*
 

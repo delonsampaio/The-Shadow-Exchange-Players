@@ -36,11 +36,11 @@ Your playbook is your class. It gives you starting action dots, a list of specia
 
 **Every playbook starts with 3 dots already filled in:** Cutter — Skirmish 2, Command 1 · Hound — Hunt 2, Survey 1 · Leech — Tinker 2, Wreck 1 · Lurk — Prowl 2, Finesse 1 · Slide — Sway 2, Consort 1 · Spider — Consort 2, Study 1 · Whisper — Attune 2, Study 1. *(Check against your playbook sheet if you have one.)*
 
-> **Get your playbook sheet (free PDF):** see [Official Resources](Official-Resources.md) — one link per playbook. **Can't open it tonight?** No problem: pick your playbook, your Vice and your Heirloom, and **we'll choose your special ability and your Friend/Rival at Session 0 in two minutes.**
+> **Get your playbook sheet (free PDF):** see [Official Resources](Official-Resources.md) — one link per playbook. **Can't open it tonight?** Pick your playbook, your Vice and your Heirloom, and **we'll choose your special ability and your Friend/Rival at Session 0.**
 
 **For a first-time Blades table:** at least one Spider or Slide. Both have abilities that engage the crew's world politically and socially rather than just through dice. If everyone picks Cutters, the campaign will fight a lot and miss a lot.
 
-If you're not sure what to pick, ask the GM. He knows what the rest of the table is building and can tell you what slot is open.
+If you're not sure what to pick, ask the GM. The GM knows what the rest of the table is building and can tell you what slot is open.
 
 ---
 
@@ -115,7 +115,7 @@ This is a *Shadow Exchange* requirement, not standard Blades.
 
 One sentence. Something concrete and specific — a pocket watch, a photograph, a piece of clothing, a journal in a language you don't speak. Something with weight from someone's life.
 
-You don't need backstory for it now. Just the object. The GM will quietly do something with it as the campaign goes on.
+Bring the object, where it came from, and why you should have left it behind — one sentence. The GM will quietly do something with it as the campaign goes on.
 
 ---
 

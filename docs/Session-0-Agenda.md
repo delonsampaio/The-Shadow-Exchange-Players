@@ -1,6 +1,6 @@
 # Session 0 — What to Expect
 
-Read this before you arrive. Session 0 has a specific shape. Knowing it ahead of time means you can be present for it rather than wondering what's next.
+Read this before you arrive. Session 0 has a specific shape. Knowing it ahead of time lets you arrive ready.
 
 ---
 
@@ -14,7 +14,7 @@ Finish the [Before Session 0](Before-Session-0.md) checklist and bring your shee
 
 ### Beat 1 — The Pitch
 
-The GM opens with a read-aloud that establishes the world and the premise. You've read enough to know the setup already. This beat is for atmosphere, not information. Settle in and let it land.
+The GM opens with a read-aloud that establishes the world and the premise. You've read enough to know the setup already. This beat is for atmosphere, not information.
 
 No decisions here. Just listen.
 
@@ -26,13 +26,13 @@ Each player introduces their character to the table, in character, briefly. The 
 
 > *"Tell us your name, what you look like in one sentence, what you do in the bookshop on a normal day, and one thing your character carries that they wouldn't loan to anyone here."*
 
-**Keep it to two minutes or less.** You are not being asked for your backstory. You are being asked for a first impression. The rest of the table will learn who you are through play — this is the thumbnail.
+You are not being asked for your backstory. You are being asked for a first impression. The rest of the table will learn who you are through play — this is the thumbnail.
 
 After introductions, the GM will ask:
 
 > *"You've worked in this building together for two years. How did that happen? Who found who? And — nobody remembers who signed the lease. What's the theory?"*
 
-This is a collaborative question. There is no wrong answer. You are establishing shared history that the fiction will treat as real.
+This is a collaborative question. You are establishing shared history that the fiction will treat as real.
 
 ---
 
@@ -50,7 +50,7 @@ The GM will walk you through:
 
 The GM will present the options and explain what they do.
 
-These are small mechanical choices that shape emphasis, not fate.
+**Be ready to invent on the spot** (the GM asks one at a time): a nickname the crew gave another PC; the secret coin order that opens the Zoltar machine; a district the firm avoids, and why; which rule on the lair wall you caused; the monster in the newest polaroid; one object on the shelf in your corner; and your Friend, Rival and Heirloom (name, where it came from, why you should have left it behind). The firm already has one crew ability, **Double Bookkeeping** (after a Ministry job, quietly keep one small item off the books); you pick one more. Reputation is one pick from honest, effective, discreet or reckless.
 
 ---
 
@@ -70,7 +70,7 @@ Before anything real happens, the GM runs **one practice roll** with nothing at 
 
 ### Beat 5 — Closing Montage
 
-The session ends with atmosphere, not mechanics. The GM will give a short read-aloud and then ask each player one closing question. These are not trick questions. They are the GM asking what each player actually wants from the campaign.
+The session ends with atmosphere, not mechanics. The GM will give a short read-aloud and then ask four closing questions around the table — some about your character, one about what you want from the GM. They are the GM asking what each player actually wants from the campaign.
 
 Answer honestly. Your answer becomes part of the campaign's operating instructions.
 
@@ -83,9 +83,9 @@ Answer honestly. Your answer becomes part of the campaign's operating instructio
 ## Logistics
 
 - **Session 0 has no score.** No heist, no engagement roll, no Heat. Tonight is setup.
-- **You will not learn the full rules tonight.** The rules reveal themselves through play. Bring what you know and trust the GM to handle the rest.
+- **The Trial Run uses the Quick Start rules.** Bring what you know; everything else is on the printed cards.
 - The GM will have printed reference cards at the table. Bring your sheet; everything else is provided.
-- **The Co-GM and the TV.** The human GM runs the game and makes every call. The AI Co-GM helps describe places, voices characters, and updates the shared TV with scene images, documents your characters are holding, and public clocks. **Anything on the TV is something your character can see.** (Secrets never go on it.)
+- **The Co-GM and the TV.** The human GM runs the game and makes every call. The AI Co-GM helps describe places, writes the NPC lines the GM reads, and updates the shared TV with scene images, documents your characters are holding, and public clocks. **Anything on the TV is something your character can see.** (Secrets never go on it.)
 - **Missing a session.** Tell the GM. We'll work around you — your character can be "lost in their Vice" off-camera.
 - **Bring your sense of humor.** This campaign is dread *and* laughs — see [What Kind of Game Is This](What-Kind-of-Game.md).
 

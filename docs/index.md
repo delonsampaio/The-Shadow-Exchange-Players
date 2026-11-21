@@ -16,6 +16,7 @@ title: The Shadow Exchange
 
 [1. Quick Start :material-arrow-right:](Quick-Start.md){ .md-button .md-button--primary }
 [Session 0 checklist](Before-Session-0.md){ .md-button }
+[What happens at Session 0](Session-0-Agenda.md){ .md-button }
 
 </div>
 </div>
@@ -70,7 +71,7 @@ Everything else is optional reference — skim it whenever you're curious. The G
 | HP attrition | **Stress** (push harder, resist consequences) and **Harm** (slow, accumulated damage). |
 | Class features + spell slots | **Action ratings** (12 broad actions) and **special abilities** (playbook). |
 | Plan before entering | **Engagement roll** drops you into the score already in progress. Plan retroactively via flashback. |
-| GM rolls vs. you | The GM never rolls dice. Every roll is yours. |
+| GM rolls vs. you | You roll your own dice; the GM only rolls for the world's trouble between jobs. |
 | Loot is loot | Some loot has a name. A monster's tether to the human world is a person's most precious thing. Taking it has weight. |
 
 The single biggest shift: **one roll produces a complete result**, including both what you accomplished and what it cost you. There is no "I rolled a 14 to persuade him" with no further consequence. Everything bites back a little.

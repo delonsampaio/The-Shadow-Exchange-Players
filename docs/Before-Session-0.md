@@ -30,13 +30,13 @@
 5. Close Friend (name + 1 sentence):
 6. Rival (name + 1 sentence):
 7. Cursed Heirloom (the object):
-8. Why my character is still doing this work:
+8. My answer (to one of the three questions in the Guide):
 ```
 
 ## Need your playbook sheet?
 **Free PDFs for all seven playbooks: [Official Resources](Official-Resources.md).** *(Ignore the sheet's heritage list and friend names — they're for a different city.)* **No sheet yet? Come anyway** — we'll pick your special ability and your Friend/Rival at Session 0.
 
-## Not stuck? Skip ahead
+## Stuck?
 - **Not sure about your dots?** Take the playbook's suggestions. We'll fix it at the table.
 - **No Friend or Rival yet?** Come anyway. We'll invent them in Session 0.
 - **Don't have an idea for the Heirloom?** A watch, a photograph, a coat, a key. Pick the first thing that comes to mind.

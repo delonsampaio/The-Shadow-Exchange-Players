@@ -30,9 +30,9 @@ Roll as many six-sided dice as your **rating** in that action. **Look at the hig
 You can negotiate these. *"Can I go slower to be safer?"* is a great question.
 
 ## Stress — your reserve of willpower
-You spend **Stress** to push harder, help a friend, or **resist** a consequence. At 9 you take a **Trauma** — permanent, and it makes your character *more* interesting, not worse. You clear Stress in Downtime by indulging your **Vice**.
+You spend **Stress** to push harder, help a friend, or **resist** a consequence. At 9 you take a **Trauma** (you're out of the scene and return at 0 Stress; a fourth retires the character) — permanent, and it makes your character *more* interesting, not worse. You clear Stress in Downtime by indulging your **Vice**.
 
-## Resist it — it always works
+## Resist it — it always works (commit first, then roll)
 When something bad happens, you can say *"I resist."* You roll, and the **higher the die, the cheaper it is** (a 6 is free). Think of it as a reaction you declare *after* seeing the consequence land.
 
 ## Flashbacks — plan after the fact
