@@ -17,8 +17,8 @@ You roll every action and resistance roll. The GM never rolls against you. The G
 - Every PC should roll in the key scene; if you have been quiet, expect the spotlight.
 - One big reveal per night. A second one waits for next week.
 - A rules question gets a minute. If it can't be settled, the GM rules and we check the book afterwards.
-- We stop at the agreed time. A late score gets "cliffhanger here, or a five-minute fast-forward?"
-- **Short night (90 minutes):** engagement roll, one score, downtime as one sentence per person.
+- We stop at the agreed time. If the evening ends mid-story we stop at a good pausing point and pick up next time.
+- **Nothing is cut:** a story may take two evenings. We stop at a safe pausing point, recap with a "Previously" card next time, and the end-of-story ritual (the fortune card, XP, a few quick questions) happens when the story is done.
 - **If you miss a night:** your character is on the job but offscreen. You still earn the crew's XP and half of your own triggers. Others may only Assist for you.
 
 ## End of night
