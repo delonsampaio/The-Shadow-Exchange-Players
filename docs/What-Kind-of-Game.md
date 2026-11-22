@@ -60,7 +60,7 @@ When you make your character, ask: *what has two years of this work done to them
 
 The world does not know monsters are real. The Ministry enforces this actively. The crew's cover — a failing bookstore — exists to maintain it.
 
-This means: **a witness with a phone is a more serious complication than a wound.** A Ministry internal audit is more dangerous than a creature. Exposure does not end a session; it can end careers, licenses, and in some circumstances, more than that.
+This means: **a witness with a phone is a more serious complication than a wound.** A Ministry inspection is more dangerous than a creature. Exposure does not end a session; it can end careers, licenses, and in some circumstances, more than that.
 
 Take the cover-up seriously and your character will have the right relationship to the world.
 
