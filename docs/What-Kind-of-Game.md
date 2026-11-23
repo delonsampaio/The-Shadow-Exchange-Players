@@ -31,7 +31,7 @@ And another:
 - *"That was awesome."* (Not the wrong word — just the wrong register. We reach for *interesting* or *costly* before we reach for *cool.*)
 - Quips that undercut a moment that deserves silence. (Everywhere else, jokes are welcome — see below.)
 - Monsters that are only threats. Every creature in this world has a history that the crew may never fully learn.
-- NPCs whose grief is loud. Tragedy in this campaign is buried. The wedding ring is mentioned once and not mentioned again; the player decides whether to pursue it.
+- NPCs whose grief is loud. Tragedy in this campaign is buried. A coat left on a hook is mentioned once and not mentioned again; the player decides whether to pursue it.
 
 ---
 

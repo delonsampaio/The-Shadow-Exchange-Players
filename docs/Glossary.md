@@ -36,7 +36,7 @@
 - **Resonance** — the faint signature that supernatural things leave behind. Ministry and Apex scanners look for it.
 - **Anchor Item** — a personal object tied to a hidden creature. Take it and their disguise starts to fail. Every one belongs to somebody.
 - **Twice-Born** — people who live in both the human world and something older.
-- **Biological / Relic** — loot: perishable monster parts / cursed, active objects.
+- **Biological / Relic** — loot: perishable monster parts / cursed, active objects. You can sell one, use it once on a score (bring one kept item per job), or trade and bribe with it. Anchors are never sold.
 - **Containment Suite** — the crew's hidden lab and vault behind the bookshop's Zoltar machine.
 - **Cursed Heirloom** — an object your character should have left behind. The GM will quietly do something with it.
 - **Anchor Ledger** — the crew's record of every Anchor decision they've made.
