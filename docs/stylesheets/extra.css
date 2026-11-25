@@ -175,3 +175,15 @@
 .md-typeset .md-code__button, .md-typeset .md-clipboard { color: var(--se-amber); opacity: .9; }
 .md-typeset .md-code__button:hover, .md-typeset .md-code__button.focus-visible,
 .md-typeset .md-clipboard:hover, .md-typeset .md-clipboard:focus { color: var(--se-blue); opacity: 1; }
+
+/* Soundtrack page: cover thumbnail beside the title and player; stacks on phones */
+.md-typeset .track { display: flex; align-items: center; gap: 1rem; margin: 1rem 0; }
+.md-typeset .track img { width: 96px; height: 96px; border-radius: 6px; flex: none; }
+.md-typeset .track audio { width: min(100%, 22rem); margin-top: .35rem; }
+.md-typeset .track > div { min-width: 0; flex: 1; }
+
+/* Anchor Ledger: cards of each Anchor the crew has handled */
+.md-typeset .anchor-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 1rem; }
+.md-typeset .anchor-cards figure { margin: 0; }
+.md-typeset .anchor-cards img { width: 100%; border-radius: 6px; }
+.md-typeset .anchor-cards figcaption { font-size: .75rem; }
